@@ -1,7 +1,7 @@
 {
-  "name": "starwars-express",
+  "name": "starwars",
   "version": "1.0.0",
-  "description": "",
+  "description": "* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.",
   "main": "server.js",
   "dependencies": {
     "express": "^4.16.4",
@@ -13,6 +13,14 @@
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Chris",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisfernandes123/HerokuStarWars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisfernandes123/HerokuStarWars/issues"
+  },
+  "homepage": "https://github.com/chrisfernandes123/HerokuStarWars#readme"
 }
